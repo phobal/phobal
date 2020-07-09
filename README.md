@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **phobal/phobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about ...
+email: `fphobal@gmail.com`  
+
+wechat: `phobal`  
+
+
+
+
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=phobal.phobal)
