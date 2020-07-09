@@ -17,6 +17,6 @@ email: `fphobal@gmail.com`
 
 wechat: `phobal`  
 
-![](./jiedan.png)
+![](https://github.com/phobal/phobal/blob/master/jiedan.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=phobal.phobal)
